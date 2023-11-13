@@ -1,0 +1,5 @@
+numero_um = bool(34 == 1)
+print(numero_um,type(numero_um))
+print(int('1')+1)
+print(type(1.1+1))
+print(str(11)+'b')
